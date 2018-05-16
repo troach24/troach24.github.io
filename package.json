@@ -1,0 +1,30 @@
+{
+  "name": "troach24.github.io",
+  "version": "1.0.0",
+  "description": "Travis Roach's Professional Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troach24/troach24.github.io.git"
+  },
+  "keywords": [
+    "Travis",
+    "Roach",
+    "Full",
+    "Stack",
+    "Developer",
+    "Galvanize",
+    "Full",
+    "Stack",
+    "Engineer"
+  ],
+  "author": "Travis Roach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troach24/troach24.github.io/issues"
+  },
+  "homepage": "https://github.com/troach24/troach24.github.io#readme"
+}
